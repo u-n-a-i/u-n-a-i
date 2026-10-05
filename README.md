@@ -43,7 +43,8 @@ Dentro de Ikastoki encontrarás:
 * [Hugging Java](https://github.com/Ikastoki/hugging-java) — Desarrollador/a Full Stack {Java}
 * [Plan B](https://github.com/Ikastoki/plan-b) — Repositorio de transición(posible) a Automatización y Robótica Industrial.
 
->[!NOTE]
+> [!NOTE]
+>
 > Mi perfil personal recoge proyectos y herramientas que desarrollo por interés propio o trabajo, mientras que Ikastoki está pensado como un espacio separado para el aprendizaje, la experimentación y la documentación del proceso.
 
 

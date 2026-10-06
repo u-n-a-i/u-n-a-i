@@ -39,7 +39,7 @@ Dentro de Ikastoki encontrarás:
 * [Roadmap](https://github.com/Ikastoki/roadmap) — proyectos, ejercicios y material de etapas anteriores(DAW-DAM).
 * [Pillars](https://github.com/Ikastoki/pillars) — Una guía que busca construir una base sólida, que permita comprender diferentes tecnologías y aplicarlas de forma transversal.
 * [Logic](https://github.com/Ikastoki/logic) — Retos de lógica de programación.
-* [Exercises]() — Ejercicios y retos de diferentes plataformas.
+* [Exercises](https://github.com/Ikastoki/exercises) — Ejercicios y retos de diferentes plataformas.
 * [Hugging Java](https://github.com/Ikastoki/hugging-java) — Desarrollador/a Full Stack {Java}
 * [Plan B](https://github.com/Ikastoki/plan-b) — Repositorio de transición(posible) a Automatización y Robótica Industrial.
 
